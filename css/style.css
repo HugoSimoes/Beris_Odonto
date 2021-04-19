@@ -1,3 +1,12 @@
 .navbar {
     padding: 0 3rem;
 }
+
+.collapse {
+    padding: 0 3rem;
+}
+
+.navbar-brand {
+    margin-right: 200px;
+    margin-left: 100px;
+}
